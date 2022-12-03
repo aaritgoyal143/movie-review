@@ -1,0 +1,15 @@
+body
+{
+background-image: linear-gradient(to right top, #de2121, #f1780e, #fff30b, #24ee64, #35b9ed);
+}
+
+#button
+{
+    
+	border-radius: 15px;
+    height: 80px;
+    width:400px;
+    font-size: x-large;
+    font-style:italic;
+    background-image: linear-gradient(to right top, #de2121, #f1780e, #fff30b, #24ee64, #35b9ed);
+}
